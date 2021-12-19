@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sreejith S Pillai
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently Working on MERN Stack
 - 📫 Reach me @ sreejithsp711@gmail.com
 
 <!---
